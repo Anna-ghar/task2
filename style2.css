@@ -1,0 +1,44 @@
+.form1{
+    padding:30px;
+    display: inline-block;
+
+    margin:30px;
+    margin-left:30%;
+    background-color: beige;
+}
+
+.i1{
+    background-color: powderblue;
+    border:none;
+    border-radius:20px;
+    height:30px;
+    padding:10px;
+}
+
+textarea{
+    background-color: powderblue;
+    border:none;
+    border-radius:20px;
+    padding:10px;
+}
+
+.submit{
+    border:none;
+    border-radius:10px;
+    text-align:center ;
+    width: 80px;
+    height: 30px;
+}
+
+.article{
+    display: inline;
+    background-color: blanchedalmond;
+    margin-left: 50%;
+}
+ul {
+    list-style: none;
+}
+
+p{
+    width: 800px;
+}
